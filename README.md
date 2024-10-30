@@ -41,6 +41,6 @@ Springboard Cyber Security Career Track<br>
 
     
 <em><strong>Projects</strong></em><br>
-Penetration Test for Pipeline Company | <a href="https://docs.google.com/document/d/1Pyd9NVaECd4-PZ1UfXeGm1FK37S04wWSw6NSo51JAvc/edit?tab=t.0">Penetration Test Simulation</a>
+Penetration Test for Pipeline Company | <a href="https://github.com/baconsurprise/Penetration-test-simulation">Penetration Test Simulation</a>
 
 
