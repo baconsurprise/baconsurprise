@@ -23,9 +23,13 @@ Endpoint
 SIEM
   
 <em><strong>Certifications</strong></em><br>
+
 CompTIA Security+<br>
+
 Springboard Cyber Security Career Track<br>
 Google AI essentials</p>
+<a>[![Certified in Security Badge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E10AQErRcvZfDJIlw%2Fimage-shrink_1280%2Fimage-shrink_1280%2F0%2F1723817427423%3Fe%3D2147483647%26v%3Dbeta%26t%3DKL6sZmAgahIT9tNcg8PWWTRYq4xhhyMB317IbGZacXQ&f=1&nofb=1&ipt=bfea8094a8f2502d1789c0ef48f29cdf93197beb4ef524971c2c52759ccec8a6&ipo=images)](https://www.credly.com/badges/0b82ff8d-2c10-443c-9629-5f53327ffc77)
+</a>
 
     
 <em><strong>Projects</strong></em><br>
