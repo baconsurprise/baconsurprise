@@ -1,14 +1,11 @@
-#Hello, I'm Allan
+# Hello, I'm Allan
+<p>https://www.linkedin.com/in/allanmcpherson/<br>
+I am a recent Springboard Cyber Career Track graduate rapidly gaining skills to leverage in the cybersecurity industry.<br>
+Applying growing capabilities across a range of projects and technologies to become a valuable asset in the security space.
 
-https://www.linkedin.com/in/allanmcpherson/
+<em><strong>Skills</strong></em>
 
-I am a recent Springboard Cyber Career Track graduate rapidly gaining skills to leverage in the cybersecurity industry.
-
-Upskilling across a range of projects and technologies to become a valuable asset in the security space.
-
-Penetration Test for Pipeline Company | <a href="https://docs.google.com/document/d/1Pyd9NVaECd4-PZ1UfXeGm1FK37S04wWSw6NSo51JAvc/edit?tab=t.0">Penetration Test Simulation</a>
-
-Skill	Associated Project
+Associated Project
 SIEM Implementation and Log Analysis	Detection Lab
 Network Traffic Monitoring and Attack Detection	Detection Lab
 Security Automation with Shuffle SOAR	SOC Automation Lab
@@ -24,10 +21,13 @@ Endpoint
  
 SIEM
   
-Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<em><strong>Certifications</strong></em><br>
+CompTIA Security+<br>
+Springboard Cyber Security Career Track<br>
+Google AI essentials</p>
 
     
-Projects
-Detection Lab
-SOC Automation Project
+<em><strong>Projects</strong></em><br>
+Penetration Test for Pipeline Company | <a href="https://docs.google.com/document/d/1Pyd9NVaECd4-PZ1UfXeGm1FK37S04wWSw6NSo51JAvc/edit?tab=t.0">Penetration Test Simulation</a>
+
+
