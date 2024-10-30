@@ -1,5 +1,6 @@
 # Hello, I'm Allan
-<p>https://www.linkedin.com/in/allanmcpherson/<br>
+[![LinkedIn Profile](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/allanmcpherson/)
+
 I am a recent Springboard Cyber Career Track graduate rapidly gaining skills to leverage in the cybersecurity industry.<br>
 Applying growing capabilities across a range of projects and technologies to become a valuable asset in the security space.
 
