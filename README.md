@@ -6,7 +6,7 @@ Applying growing capabilities across a range of projects and technologies to bec
 
 <em><strong>Skills</strong></em>
 
-Associated Project
+Google AI essentials | Associated Project
 SIEM Implementation and Log Analysis	Detection Lab
 Network Traffic Monitoring and Attack Detection	Detection Lab
 Security Automation with Shuffle SOAR	SOC Automation Lab
@@ -36,7 +36,7 @@ CompTIA Security+<br>
 </a>
 
 Springboard Cyber Security Career Track<br>
-Google AI essentials</p>
+</p>
 
 
     
